@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            Jesulin123/practica5-1:latest
+            jesulin123/practica5-1:latest
